@@ -1,0 +1,23 @@
+.links{
+    background-color:black;
+    width:499;
+}
+.nav{
+    background-color:orange;
+    height:50px;
+}
+.links a{
+    color:white;
+}
+.css{
+    position:absolute;
+    left:50%;
+}
+.html{
+    position:absolute;
+}
+.js{
+    position:absolute;
+    left:99%;
+}
+}
